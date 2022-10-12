@@ -115,6 +115,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
